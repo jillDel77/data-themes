@@ -1,0 +1,55 @@
+  
+  body {
+ 
+    
+    font-family: Georgia, "Times New Roman", Times, serif;
+  
+    color: "#0033FF";
+}
+
+ a {
+  font-family: Verdana, Geneva, sans-serif;
+  text-decoration: none;
+} 
+
+    h1 {
+   font-family: Georgia, "Times New Roman", Times, serif; font-size: 3em
+	}
+	
+
+h2 {font-family: Georgia, Times, serif; font-size: 2.25em;}
+
+h3 {font-family: Georgia, Times, serif; font-size: 1.5em; }
+li {font-family: Verdana, Geneva, sans-serif; font-size: 1.5em; padding-left: 0.5em}
+
+p {
+		text-indent: 2.5em;
+    font-size: 2.5em
+		margin:  0 0 0.5em 0;
+		padding: 0;
+}
+
+.list {
+  list-style-position: inside;
+}
+
+.underneathImageList {
+  margin-top: 35px;
+}
+
+#header {
+  background-color: #F5C645;
+  padding-bottom: 20px;
+}
+
+#description {
+  margin-left: 50px;
+}
+
+/* COMMENT-a:    https://www.w3.org/Style/Examples/011/firstcss.en.html
+*/
+
+/* COMMENT-1: 3 rules:  a.Selector/section; b. property, color or background-color; c.value   */
+
+/* COMMMENT-2:  NAV BAR soon:  Research Papers    About, incl. CV   */
+
